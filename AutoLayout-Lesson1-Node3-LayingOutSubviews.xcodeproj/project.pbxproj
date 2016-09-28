@@ -54,14 +54,38 @@
 		ED1CE0A81D9C4795004EE8F7 /* AutoLayout-Lesson1-Node3-LayingOutSubviews */ = {
 			isa = PBXGroup;
 			children = (
+				ED1CE0BB1D9C48D6004EE8F7 /* Code */,
+				ED1CE0BC1D9C4962004EE8F7 /* Xib files */,
+				ED1CE0BD1D9C4988004EE8F7 /* Storyboard */,
 				ED1CE0A91D9C4795004EE8F7 /* AppDelegate.swift */,
-				ED1CE0AB1D9C4795004EE8F7 /* ViewController.swift */,
-				ED1CE0AD1D9C4795004EE8F7 /* Main.storyboard */,
 				ED1CE0B01D9C4795004EE8F7 /* Assets.xcassets */,
-				ED1CE0B21D9C4795004EE8F7 /* LaunchScreen.storyboard */,
 				ED1CE0B51D9C4795004EE8F7 /* Info.plist */,
 			);
 			path = "AutoLayout-Lesson1-Node3-LayingOutSubviews";
+			sourceTree = "<group>";
+		};
+		ED1CE0BB1D9C48D6004EE8F7 /* Code */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Code;
+			sourceTree = "<group>";
+		};
+		ED1CE0BC1D9C4962004EE8F7 /* Xib files */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "Xib files";
+			sourceTree = "<group>";
+		};
+		ED1CE0BD1D9C4988004EE8F7 /* Storyboard */ = {
+			isa = PBXGroup;
+			children = (
+				ED1CE0AB1D9C4795004EE8F7 /* ViewController.swift */,
+				ED1CE0AD1D9C4795004EE8F7 /* Main.storyboard */,
+				ED1CE0B21D9C4795004EE8F7 /* LaunchScreen.storyboard */,
+			);
+			name = Storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
